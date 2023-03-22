@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS tasks (
+    job_id INTEGER PRIMARY KEY,
+    text VARCHAR(120),
+    status VARCHAR(80)
+);

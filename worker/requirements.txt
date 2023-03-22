@@ -1,0 +1,7 @@
+flask
+celery
+redis
+postgres
+psycopg2-binary
+Flask-SQLAlchemy
+requests
